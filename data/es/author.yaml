@@ -8,22 +8,21 @@ nickname: "Yair"
 greeting: "Hola, yo soy"
  
 # Imagen de ti
-image: "images/author/profile.png"
+image: "images/author/A01275404.jpeg"
  
 # Información de contacto
 contactInfo:
-  email: "correo@gmail.com"
-  phone: "5512345678"
+  email: "jesusyair1001@gmail.com"
+  phone: "7712671610"
   linkedin:
     icon: linkedin
-    url: "link de linkedin"
+    url: "https://www.linkedin.com/in/jes%C3%BAs-yair/"
     text: "Texto"
  
  
 # Descripción de ti
 summary:
   - Soy un Científico de Datos
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
+  - Soy un Nadador...
+  - Soy un Chef...
+  - Soy un Matematico...
