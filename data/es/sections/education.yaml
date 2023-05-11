@@ -16,39 +16,25 @@ degrees:
     url: "Link"
   grade:
     scale: Promedio
-    achieved: 97
+    achieved: 96
     outOf: 100
   extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
- 
+  - "Natación"
+  - "Krav maga"
+
  
 - name: Preparatoria
   icon: fa-university
   timeframe: 2017-2020
   institution:
-    name: Prepa Tec campus Estado de México
+    name: Prepa Tec campus Hidalgo
     url: "Link"
   grade: 
     scale: Promedio
-    achieved: 92
+    achieved: 93
     outOf: 100
   takenCourses: 
     showGrades: true
     collapseAfter: 4
     courses:
-    - name: Matemáticas
-      achieved: 9
-      outOf: 10
-    - name: Programación
-      achieved: 9
-      outOf: 10
-    - name: Biología
-      achieved: 9
-      outOf: 10
-  extracurricularActivities:
-  - "Extracurricular 1"
-  - "Extracurricular 2"
-  - "Extracurricular 3"
- 
+
