@@ -9,31 +9,16 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: NIELSEN IQ.
+    url: "https://nielseniq.com/global/es/"
+    overview: "Becario en el area de ciencia de datos en Chile, Peru y Ecuador"
   positions:
-  - designation: Puesto
-    start: Jan 2022 
+  - designation: Becario
+    start: ABRIL 17 2023 
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
-- company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
-  positions:
-  - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
-    responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
+    - Automatización 
+    - Extracciones de datos
+    - Generar reportes
+    - Generar gráficos
  
 
