@@ -20,8 +20,8 @@ buttons:
   filter: "Academic"
 - name: Professional
   filter: "Professional"
-- name: Optimización2
-  filter: "Personal"
+- name: Optimizacion
+  filter: "Optimizacion"
  
 # Proyectos
 projects:
