@@ -38,5 +38,5 @@ projects:
   role: Personal
   timeline: "2022" #Año
   summary: "Desarrollo de codigo en Pyhton para detectar la infección de malaria presente en imagenes de celulas " #Descripción del proyecto
-  repo: "es/files/1670129586000ProyectoFinalNN (1) (1).pdf" #Link del repositorio de github del proyecto
+  repo: "d" #Link del repositorio de github del proyecto
   tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
