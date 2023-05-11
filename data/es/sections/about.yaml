@@ -52,13 +52,15 @@ badges:
   name: Trabajo en equipo #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: red #Color
+  
 - type: soft-skill-indicator
-  name: Python #Nombre de soft skill
-  percentage: 90 #Porcentaje que tienes / tamaño del círculo
+  name: Comunicacion #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: yellow #Color
+  
 - type: soft-skill-indicator
-  name: Excel #Nombre de soft skill
-  percentage: 90 #Porcentaje que tienes / tamaño del círculo
+  name: Resiliencia #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: green #Color
 
  
