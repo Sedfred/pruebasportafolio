@@ -12,7 +12,7 @@ buttons:
   filter: "all"
 - name: Python
   filter: "Python"
-- name: R
+- name: Estadística 
   filter: "R"
 - name: Machine Learning
   filter: "Machine Learning"
@@ -20,14 +20,14 @@ buttons:
   filter: "Academic"
 - name: Professional
   filter: "Professional"
-- name: Personal
+- name: Optimización
   filter: "Personal"
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
+- name: Detencción de malaria en celulas utilizando Redes Nueronales 
   logo: /images/sections/projects/proyecto1.png #Logo del proyecto
-  role: Professional 
+  role: Academic 
   timeline: "2022" #Año
   summary: "Resumen del proyecto" #Descripción del proyecto
   url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
@@ -37,6 +37,6 @@ projects:
   logo: /images/sections/projects/proyecto2.png #Logo del proyecto
   role: Personal
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
+  summary: "Desarrollo de codigo en Pyhton para detectar la infección de malaria presente en imagenes de celulas " #Descripción del proyecto
+  repo: "es/files/" #Link del repositorio de github del proyecto
   tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
