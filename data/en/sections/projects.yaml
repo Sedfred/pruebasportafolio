@@ -25,7 +25,7 @@ buttons:
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
+- name: Detencción de malaria en celulas utilizando Redes Nueronales 
   logo: /images/projects/proyecto1.png #Logo del proyecto
   role: Professional 
   timeline: "2022" #Año
